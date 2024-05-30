@@ -1,0 +1,15 @@
+fastapi
+nest-asyncio
+#pyngrok
+uvicorn
+accelerate
+transformers
+#sentence-transformers
+torch
+optimum
+huggingface_hub
+# langchain==0.1.6 
+# langchain-experimental==0.0.49
+#pypdf
+#qdrant-client
+streamlit
